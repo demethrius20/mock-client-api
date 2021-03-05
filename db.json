@@ -1,0 +1,35 @@
+{
+    "clients": [
+        {
+            "id": 0,
+            "company": "3guys",
+            "website": "www.3guys.com",
+            "address": "01 SE One Ave Portland, Oregon 91000",
+            "phone": "(000)-111-2222",
+            "email": "3guys@gmail.com",
+            "owner(s)": "James,Bond,Jr"
+        }
+    
+,
+
+        {
+            "id": 1,
+            "company": "autoplus",
+            "website": "www.autoplus.com",
+            "address": "22 SE Two Ave Portland, Oregon 92000",
+            "phone": "(111)-222-3333",
+            "email": "autoplus@gmail.com",
+            "owner(s)": "Rick, Durant"
+        }
+,
+        {
+            "id": 2,
+            "company": "Alpopro LLC",
+            "websiite": "www.alpopro.com",
+            "address": "333 SE Three Ave Portland, Oregon 92000",
+            "phone": "(222)-333-4444",
+            "email": "alpopro@gmail.com",
+            "owner(s)": "Kevin Stuart"
+        }
+    ]        
+}
