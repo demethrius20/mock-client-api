@@ -1,0 +1,30 @@
+{
+  "name": "mock-client-api",
+  "version": "1.0.0",
+  "description": "simple mock-api using .json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demethrius20/mock-client-api.git"
+  },
+  "keywords": [
+    "api",
+    "mock",
+    "api",
+    "client",
+    "api"
+  ],
+  "author": "Demethrius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demethrius20/mock-client-api/issues"
+  },
+  "homepage": "https://github.com/demethrius20/mock-client-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
